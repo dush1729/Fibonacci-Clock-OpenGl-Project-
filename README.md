@@ -12,4 +12,8 @@ To calculate time, find hour and minute, then multiply minute bt 5.
 ![ScreenShot](https://s24.postimg.org/gr430tf0l/Untitled.png)
 
 
-11:30
+Hour = 1 + 2 + 3 + 5 = 11
+
+Minute = ( 1 + 2 + 3 )*5 = 30
+
+Time = 11:30
