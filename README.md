@@ -7,7 +7,7 @@ Blue represent both hour and minute.
 
 To calculate time, find hour and minute, then multiply minute bt 5.
 
-**Example
+**Example**
 ![ScreenShot](https://s24.postimg.org/gr430tf0l/Untitled.png)
 
 
