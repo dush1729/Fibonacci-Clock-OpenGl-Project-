@@ -7,7 +7,7 @@ To calculate time, find hour and minute, then multiply minute by 5.
 
 **Example**
 
-![ScreenShot](https://s24.postimg.org/gr430tf0l/Untitled.png)
+![ScreenShot](https://drive.google.com/uc?id=1Mdp2Bn4H7M4Y2gplamNWkdjBHa9zhv6h)
 
 
 Hour = 1 + 2 + 3 + 5 = 11
